@@ -20,7 +20,7 @@ Navigate your player, collect apples to gain extra lives, avoid enemies, and gra
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs here to showcase the game visually)*
+![Game Preview](shots/i1.png)
 
 ---
 
